@@ -1,0 +1,117 @@
+﻿@using System.Globalization
+@model Wipro_OnlineMovieBookingApplication.ViewModels.PaymentDetailsViewModel
+
+@{
+    ViewData["Title"] = "Payment Details";
+}
+
+<style>
+    body {
+        font-family: 'Poppins', sans-serif;
+        margin: 0;
+        padding: 20px;
+        background-color: #f8f9fa;
+        color: #333;
+    }
+
+    .container {
+        max-width: 800px;
+        margin: auto;
+        padding: 20px;
+    }
+
+    .card {
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        background-color: white;
+    }
+
+    .card-header {
+        font-size: 24px;
+        font-weight: bold;
+        padding: 15px;
+        background-color: #3498db;
+        color: white;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+    }
+
+    .card-body {
+        padding: 20px;
+    }
+
+    .detail-label {
+        font-weight: bold;
+        margin-right: 10px;
+    }
+
+    .detail-value {
+        color: #555;
+    }
+
+    .status {
+        color: green;
+        font-weight: bold;
+    }
+
+    .status-pending {
+        color: orange;
+        font-weight: bold;
+    }
+
+    hr {
+        border: none;
+        height: 1px;
+        background-color: #e0e0e0;
+        margin: 20px 0;
+    }
+</style>
+
+<div class="container">
+    <div class="card">
+        <div class="card-header">
+            Payment Details
+        </div>
+        <div class="card-body">
+            <div>
+                <span class="detail-label">Transaction ID:</span>
+                <span class="detail-value">@Model.TransactionId</span>
+            </div>
+            <hr />
+            <div>
+                <span class="detail-label">Username:</span>
+                <span class="detail-value">@Model.UserName</span>
+            </div>
+            <div>
+                <span class="detail-label">Email:</span>
+                <span class="detail-value">@Model.Email</span>
+            </div>
+            <div>
+                <span class="detail-label">Movie Name:</span>
+                <span class="detail-value">@Model.MovieName</span>
+            </div>
+            <div>
+                <span class="detail-label">Booking Date:</span>
+                <span class="detail-value">@Model.PaymentDate.ToString("dd MMM yyyy")</span>
+            </div>
+            <div>
+                <span class="detail-label">Total Amount:</span>
+                <span class="detail-value">@Model.Amount.ToString("C", new CultureInfo("en-IN"))</span>
+            </div>
+            <div>
+                <span class="detail-label">Payment Status:</span>
+                <span class="detail-value">
+                    @if (Model.IsConfirmed)
+                    {
+                        <span class="status">Completed</span>
+                    }
+                    else
+                    {
+                        <span class="status-pending">Pending</span>
+                    }
+                </span>
+            </div>
+        </div>
+    </div>
+</div>

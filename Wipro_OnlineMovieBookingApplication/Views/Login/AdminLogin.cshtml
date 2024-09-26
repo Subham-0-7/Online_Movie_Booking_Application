@@ -1,0 +1,139 @@
+﻿@model Wipro_OnlineMovieBookingApplication.ViewModels.UserLoginViewModel;
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    body {
+        font-family: 'Poppins', sans-serif;
+        background-color: #f2f2f2;
+        margin: 0;
+        padding-top: 80px;
+        height: 100vh;
+        background: linear-gradient(135deg, #71b7e6, #9b59b6);
+        overflow: hidden;
+    }
+
+    .center-login {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: calc(100vh - 80px);
+        padding: 20px;
+    }
+
+    .login-container {
+        background-color: #fff;
+        padding: 40px;
+        border-radius: 15px;
+        box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+        animation: slideIn 1s ease-in-out;
+        width: 100%;
+        max-width: 400px;
+    }
+
+    .login-container h2 {
+        color: #333;
+        text-align: center;
+        font-size: 28px;
+        font-weight: 600;
+        margin-bottom: 30px;
+    }
+
+    .form-group label {
+        font-size: 14px;
+        color: #555;
+    }
+
+    .form-control {
+        height: 45px;
+        border-radius: 8px;
+        border: 1px solid #ddd;
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+
+    .btn-success {
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        padding: 10px 20px;
+        font-size: 16px;
+        border-radius: 25px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+    .btn-success:hover {
+        background-color: #45a049;
+    }
+
+    .text-center h7 {
+        font-size: 14px;
+        color: #555;
+    }
+
+    .text-center a {
+        color: #3498db;
+        text-decoration: none;
+        font-weight: 600;
+    }
+
+    .text-center a:hover {
+        text-decoration: underline;
+    }
+
+    /* Input Field Animation */
+    .form-control:focus {
+        border-color: #3498db;
+        box-shadow: 0px 0px 5px rgba(52, 152, 219, 0.5);
+        outline: none;
+        transition: 0.3s ease;
+    }
+
+    /* Background Animation */
+    body::before {
+        content: '';
+        position: absolute;
+        top: -10%;
+        left: -10%;
+        width: 200%;
+        height: 200%;
+        background: linear-gradient(135deg, #71b7e6, #9b59b6);
+        background-size: 400% 400%;
+        z-index: -1;
+        animation: gradientAnimation 15s ease infinite;
+    }
+</style>
+
+<section id="aboutUs" class="center-login">
+    <div class="login-container">
+        <h2>Admin Portal - Login</h2>
+        <div class="inner_section">
+            <form asp-action="AdminLogin" asp-controller="Login">
+                <div class="form-group">
+                    <label asp-for="Email"></label>
+                    <input type="text" asp-for="Email" placeholder="Enter your email" value="subham@gmail.com" class="form-control" autocomplete="off" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Password"></label>
+                    <input type="password" asp-for="Password" placeholder="Enter your password" value="12345678" class="form-control" autocomplete="off" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+                <center>
+                    <div class="form-group">
+                        <input type="submit" class="btn btn-success mb-2" value="Sign In" />
+                    </div>
+                </center>
+            </form>
+
+            <div class="text-center">
+                <h7>Don't have an account?</h7>
+                <a href="@Url.Action("Register", "Register")">Sign up</a>
+            </div>
+        </div>
+    </div>
+</section>

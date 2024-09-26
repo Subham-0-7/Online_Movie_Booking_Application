@@ -1,0 +1,223 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Wipro_OnlineMovieBookingApplication
+build_property.RootNamespace = Wipro_OnlineMovieBookingApplication
+build_property.ProjectDir = C:\Users\hp\source\repos\Wipro_OnlineMovieBookingApplication\Wipro_OnlineMovieBookingApplication\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\hp\source\repos\Wipro_OnlineMovieBookingApplication\Wipro_OnlineMovieBookingApplication
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Admin/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Admin/AdminDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5EYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Admin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Admin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Admin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Admin/SetAdminUserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2V0QWRtaW5Vc2VyTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Admin/UserDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlckRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Booking/AddBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xBZGRCb29raW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Booking/AddBookingSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xBZGRCb29raW5nU3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Booking/BookingDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xCb29raW5nRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Booking/BookingDetailsForOne.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xCb29raW5nRGV0YWlsc0Zvck9uZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Login/AdminLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQWRtaW5Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Login/LoginCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW5DYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Login/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Login/UserLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cVXNlckxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Movie/AddMovies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQWRkTW92aWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Movie/DeleteMovies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRGVsZXRlTW92aWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Movie/EditMovies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRWRpdE1vdmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Movie/MovieDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcTW92aWVEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/PaymentDetails/ConfirmPaymentSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudERldGFpbHNcQ29uZmlybVBheW1lbnRTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/PaymentDetails/DownloadAsPdf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudERldGFpbHNcRG93bmxvYWRBc1BkZi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/PaymentDetails/GetAllPaymentDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudERldGFpbHNcR2V0QWxsUGF5bWVudERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/PaymentDetails/GetAllPaymentDetailsForUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudERldGFpbHNcR2V0QWxsUGF5bWVudERldGFpbHNGb3JVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/PaymentDetails/GetPaymentDetailsForOne.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudERldGFpbHNcR2V0UGF5bWVudERldGFpbHNGb3JPbmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Register/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Register/RegisterUserSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcUmVnaXN0ZXJVc2VyU3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/SuccessPopUp/AddMovieSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjY2Vzc1BvcFVwXEFkZE1vdmllU3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/SuccessPopUp/AddUserSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjY2Vzc1BvcFVwXEFkZFVzZXJTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/SuccessPopUp/DeleteMovieSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjY2Vzc1BvcFVwXERlbGV0ZU1vdmllU3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/SuccessPopUp/DeleteViewSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjY2Vzc1BvcFVwXERlbGV0ZVZpZXdTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/SuccessPopUp/EditMovieSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjY2Vzc1BvcFVwXEVkaXRNb3ZpZVN1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/SuccessPopUp/EditUserByAdminSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjY2Vzc1BvcFVwXEVkaXRVc2VyQnlBZG1pblN1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/SuccessPopUp/EditUserSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjY2Vzc1BvcFVwXEVkaXRVc2VyU3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/SuccessPopUp/LoginFailureAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjY2Vzc1BvcFVwXExvZ2luRmFpbHVyZUFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/SuccessPopUp/LoginFailureUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjY2Vzc1BvcFVwXExvZ2luRmFpbHVyZVVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/SuccessPopUp/SetAdminSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjY2Vzc1BvcFVwXFNldEFkbWluU3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/User/AddBookingForUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBZGRCb29raW5nRm9yVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/User/BookingDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxCb29raW5nRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/User/BookingDetailsForOne.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxCb29raW5nRGV0YWlsc0Zvck9uZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/User/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/User/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/User/MovieDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxNb3ZpZURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/User/UserDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVc2VyRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/source/repos/Wipro_OnlineMovieBookingApplication/Wipro_OnlineMovieBookingApplication/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rpvuk4xli9

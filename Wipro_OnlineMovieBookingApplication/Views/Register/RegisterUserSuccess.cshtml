@@ -1,0 +1,32 @@
+﻿<script>
+    $(document).ready(function () {
+        // Show the modal when the document is ready
+        $('#successModal').modal('show');
+
+        // Redirect to the home page when the OK button is clicked
+        $('#okButton').click(function () {
+            window.location.href = '@Url.Action("Index", "Home")';
+        });
+    });
+</script>
+
+<!-- Modal Structure -->
+<div class="modal fade" id="successModal" tabindex="-1" aria-labelledby="successModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="successModalLabel">Success</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h3>User Registered Successfully</h3>
+            </div>
+            <div class="modal-footer">
+                <!-- Assign an ID to the OK button to target it with JavaScript -->
+                <button type="button" class="btn btn-primary" id="okButton">OK</button>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,209 @@
+﻿@model Wipro_OnlineMovieBookingApplication.ViewModels.AddMovieViewModel
+
+@{
+    ViewData["Title"] = "Add Movie";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <style>
+        body {
+            background: linear-gradient(135deg, #74ebd5, #ACB6E5);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .container {
+            margin-top: 50px;
+            max-width: 600px;
+            animation: fadeInUp 1s ease-in-out;
+        }
+
+        .form-container {
+            background: #fff;
+            border-radius: 15px;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+            padding: 40px;
+        }
+
+        .form-container h2 {
+            margin-bottom: 30px;
+            color: #333;
+            font-size: 28px;
+            font-weight: bold;
+            text-align: center;
+            background: linear-gradient(to right, #74ebd5, #ACB6E5);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .form-group label {
+            font-weight: 600;
+            color: #555;
+        }
+
+        .form-control {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            padding: 10px;
+            font-size: 16px;
+            color: #333;
+            transition: border-color 0.3s ease, box-shadow 0.3s ease;
+            height: auto; 
+            line-height: 1.5; 
+        }
+
+            .form-control:focus {
+                border-color: #74ebd5;
+                box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+            }
+
+        .form-group select {
+            padding: 10px;
+            height: auto; 
+            line-height: 1.5; 
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+
+        .btn-primary {
+            background-color: #74ebd5;
+            border-color: #74ebd5;
+            padding: 10px 20px;
+            border-radius: 25px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+
+        .btn-primary:hover {
+            background-color: #ACB6E5;
+            border-color: #ACB6E5;
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        .btn-secondary {
+            background-color: #fff;
+            border-color: #ddd; 
+            color: #000;
+            border-radius: 25px;
+            padding: 10px 20px; 
+            font-weight: bold; 
+            text-decoration: none; 
+            transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+        }
+
+            .btn-secondary:hover {
+                background-color: #f8f9fa;
+                border-color: #ccc; 
+                color: #333; 
+            }
+
+            .btn-secondary i {
+                margin-right: 5px;
+            }
+
+
+        .text-danger {
+            font-weight: 600;
+        }
+
+        .form-container .form-group {
+            margin-bottom: 20px;
+        }
+
+        .text-center a {
+            color: #74ebd5;
+        }
+
+        .text-center a:hover {
+            color: #ACB6E5;
+        }
+        
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="form-container">
+            <h2 class="text-center">@ViewData["Title"]</h2>
+            <form asp-action="AddMovies" method="post">
+                <div class="form-group">
+                    <label asp-for="MovieName" class="control-label"></label>
+                    <input asp-for="MovieName" class="form-control" placeholder="Enter movie name" />
+                    <span asp-validation-for="MovieName" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Synopsis" class="control-label"></label>
+                    <textarea asp-for="Synopsis" class="form-control" rows="4" placeholder="Enter movie synopsis"></textarea>
+                    <span asp-validation-for="Synopsis" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Director" class="control-label"></label>
+                    <input asp-for="Director" class="form-control" placeholder="Enter director name" />
+                    <span asp-validation-for="Director" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Duration" class="control-label"></label>
+                    <input asp-for="Duration" type="number" class="form-control" placeholder="Enter duration in minutes" />
+                    <span asp-validation-for="Duration" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Rating" class="control-label"></label>
+                    <input asp-for="Rating" type="number" step="0.1" min="0" max="10" class="form-control" placeholder="Enter movie rating (0-10)" />
+                    <span asp-validation-for="Rating" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="MovieImage" class="control-label"></label>
+                    <input asp-for="MovieImage" type="text" class="form-control" placeholder="Enter URL for the movie poster" />
+                    <span asp-validation-for="MovieImage" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="MoviePrice" class="control-label"></label>
+                    <input asp-for="MoviePrice" type="text" class="form-control" placeholder="Enter movie price" />
+                    <span asp-validation-for="MoviePrice" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Genre" class="control-label"></label>
+                    <select asp-for="Genre" class="form-control">
+                        <option value="">-- Select Genre --</option>
+                        <option value="Action">Action</option>
+                        <option value="Comedy">Comedy</option>
+                        <option value="Drama">Drama</option>
+                        <option value="Horror">Horror</option>
+                        <option value="Sci-Fi">Sci-Fi</option>
+                    </select>
+                    <span asp-validation-for="Genre" class="text-danger"></span>
+                </div>
+
+
+                <div class="form-group text-center">
+                    <button type="submit" class="btn btn-primary">Add Movie</button>
+                </div>
+            </form>
+            <div class="text-center mt-4">
+                <a href="@Url.Action("AdminDashboard", "Admin")" class="btn btn-secondary"><i class="fas fa-arrow-left"></i> Back to List</a>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

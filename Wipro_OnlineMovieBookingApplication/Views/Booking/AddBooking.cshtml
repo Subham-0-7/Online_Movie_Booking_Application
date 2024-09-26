@@ -1,0 +1,214 @@
+﻿@model Wipro_OnlineMovieBookingApplication.ViewModels.AddBookingViewModel
+
+@{
+    ViewData["Title"] = "Add Booking";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .container {
+            max-width: 600px;
+            margin-top: 50px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-control {
+            border-radius: 25px;
+            border: 2px solid #007bff;
+            transition: border-color 0.3s ease;
+        }
+
+            .form-control:focus {
+                border-color: #0056b3;
+                box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.25);
+            }
+
+        .btn {
+            border-radius: 25px;
+            padding: 10px 20px;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+        }
+
+        .btn-primary {
+            background-color: #007bff;
+            border: none;
+        }
+
+            .btn-primary:hover {
+                background-color: #0056b3;
+                transform: scale(1.05);
+            }
+
+        .btn-secondary {
+            background-color: #6c757d;
+            border: none;
+        }
+
+            .btn-secondary:hover {
+                background-color: #5a6268;
+                transform: scale(1.05);
+            }
+
+        .form-title {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #333;
+            font-size: 2rem;
+            font-weight: bold;
+        }
+
+        .animated-button {
+            position: relative;
+            overflow: hidden;
+        }
+
+            .animated-button::before {
+                content: "";
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                width: 300%;
+                height: 300%;
+                background: rgba(0, 123, 255, 0.2);
+                transition: transform 0.3s ease;
+                transform: translate(-50%, -50%) scale(0);
+                border-radius: 50%;
+                z-index: 0;
+            }
+
+            .animated-button:hover::before {
+                transform: translate(-50%, -50%) scale(1);
+            }
+
+            .animated-button > * {
+                position: relative;
+                z-index: 1;
+            }
+
+        .movie-card {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            max-width: 400px;
+            margin: 20px auto;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+            .movie-card:hover {
+                transform: translateY(-5px);
+                box-shadow: 0px 12px 25px rgba(0, 0, 0, 0.2);
+            }
+
+        .movie-name {
+            font-size: 24px;
+            font-weight: bold;
+            color: #3498db;
+            margin-bottom: 10px;
+        }
+
+        .movie-price {
+            font-size: 18px;
+            color: #2c3e50;
+            font-weight: 500;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border-radius: 10px;
+            box-shadow: inset 0px 2px 6px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="form-title">@ViewData["Title"]</div>
+        <div class="movie-card">
+            <div class="movie-name">@ViewBag.MovieOptions[0].MovieName</div>
+            <div class="movie-price">Ticket Price: ₹@ViewBag.MovieOptions[0].MoviePrice</div>
+        </div>
+        <form asp-action="AddBooking" method="post">
+            @Html.AntiForgeryToken()
+
+            <div class="form-group">
+                <label asp-for="UserId" class="control-label">Email</label>
+                <select asp-for="UserId" class="form-control">
+                    <option value="">-- Select Email --</option>
+                    @if (ViewBag.UserOptions == null)
+                    {
+                        <option> "User options are not available" </option>
+                    }
+                    else
+                    {
+                        @foreach (var option in ViewBag.UserOptions)
+                        {
+                            <option value="@option.UserId">@option.Email</option>
+                        }
+                    }
+
+                </select>
+                <span asp-validation-for="UserId" class="text-danger"></span>
+            </div>
+
+            @* <div class="form-group">
+                <label asp-for="MovieId" class="control-label"></label>
+                <select asp-for="MovieId" class="form-control">
+                    <option value="0">-- Select Movie --</option>
+                    @foreach (var option in ViewBag.MovieOptions)
+                    {
+                        <option value="@option.MovieId">@option.MovieName</option>
+                    }
+                </select>
+                <span asp-validation-for="MovieId" class="text-danger"></span>
+            </div> *@
+
+            <div class="form-group">
+                <label asp-for="BookingDate" class="control-label"></label>
+                <input asp-for="BookingDate" class="form-control" type="date" />
+                <span asp-validation-for="BookingDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NumberOfTickets" class="control-label">Number of Tickets</label>
+                <input asp-for="NumberOfTickets" class="form-control" type="number" min="1" />
+                <span asp-validation-for="NumberOfTickets" class="text-danger"></span>
+            </div>
+
+            @* <div class="form-group">
+            <label asp-for="TotalPrice" class="control-label">Total Price</label>
+            <input asp-for="TotalPrice" class="form-control" type="number" step="0.01" min="0" />
+            <span asp-validation-for="TotalPrice" class="text-danger"></span>
+            </div> *@
+
+            <div class="form-group">
+                <label asp-for="ShowTime" class="control-label"></label>
+                <select asp-for="ShowTime" class="form-control">
+                    <option value="">-- Select ShowTime --</option>
+                    <option value="9:00AM--12:00PM">9:00AM--12:00PM</option>
+                    <option value="1:00PM--4:00PM">1:00PM--4:00PM</option>
+                    <option value="5:00PM--8:00PM">5:00PM--8:00PM</option>
+                </select>
+            </div>
+
+            <button type="submit" class="btn btn-primary animated-button">Book</button>
+            <a asp-action="MovieDetails" asp-controller="Movie" class="btn btn-secondary animated-button">Back to List</a>
+        </form>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
+

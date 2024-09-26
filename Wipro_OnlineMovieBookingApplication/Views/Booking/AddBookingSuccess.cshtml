@@ -1,0 +1,91 @@
+﻿@model Wipro_OnlineMovieBookingApplication.ViewModels.BookingViewModel
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Booking Complete</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background: linear-gradient(135deg, #e2e2e2, #ffffff);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+            padding-top: 50px;
+        }
+
+        .container {
+            max-width: 500px;
+            margin: auto;
+        }
+
+        .message-box {
+            background-color: #ffffff;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+            .message-box h2 {
+                color: #28a745;
+                font-size: 2rem;
+                margin-bottom: 20px;
+            }
+
+            .message-box p {
+                font-size: 1.2rem;
+                color: #333;
+            }
+
+            .message-box a {
+                display: inline-block;
+                margin: 10px 15px;
+                padding: 10px 20px;
+                border-radius: 25px;
+                font-size: 1rem;
+                text-decoration: none;
+                transition: background-color 0.3s ease, transform 0.3s ease;
+            }
+
+                .message-box a.btn-user {
+                    background-color: #007bff;
+                    color: white;
+                }
+
+                    .message-box a.btn-user:hover {
+                        background-color: #0056b3;
+                        transform: scale(1.05);
+                    }
+
+                .message-box a.btn-admin {
+                    background-color: #28a745;
+                    color: white;
+                }
+
+                    .message-box a.btn-admin:hover {
+                        background-color: #218838;
+                        transform: scale(1.05);
+                    }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="message-box">
+            <h2>Booking Complete</h2>
+            <p>Your booking has been successfully completed. Thank you for choosing our service!</p>
+            <p>Check Payment Details for your Payment Status</p>
+            @if(User.IsInRole("Admin"))
+            {
+                <a href="@Url.Action("AdminDashboard", "Admin")" class="btn btn-admin">Go back to Admin Dashboard</a>
+            }
+            else if (User.IsInRole("User"))
+            {
+                <a href="@Url.Action("UserDashboard", "User", new { id = Model.UserId, bookingId = Model.BookingId })" class="btn btn-user">Go back to User Dashboard</a>
+            }
+            
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,148 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    body {
+        font-family: 'Poppins', sans-serif;
+        background: url('https://i.ibb.co/p1d2z2r/Avatar-Background2.jpg') no-repeat center center;
+        background-size: cover;
+        padding-top: 80px;
+    }
+
+    .container {
+        padding: 2rem;
+    }
+
+    .panel-primary {
+        background-color: rgba(255, 255, 255, 0.8);
+        border-radius: 10px;
+        padding: 20px;
+        box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+        margin-bottom: 30px;
+        animation: fadeIn 1.5s ease-in-out;
+    }
+
+    .panel-heading {
+        background-color: #3498db;
+        color: white;
+        padding: 10px 15px;
+        font-size: 24px;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        text-align: center;
+    }
+
+    .btn-group {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        margin-top: 20px;
+    }
+
+    .btn-primary {
+        background-color: #1abc9c;
+        border: none;
+        color: white;
+        font-size: 16px;
+        border-radius: 8px;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+    }
+
+    .btn-primary:hover {
+        background-color: #16a085;
+        transform: scale(1.05);
+    }
+
+    table {
+        width: 100%;
+        background-color: white;
+        border-radius: 8px;
+        overflow: hidden;
+        animation: slideUp 1s ease;
+    }
+
+    th {
+        background-color: #2c3e50;
+        color: white;
+        padding: 10px;
+        text-align: left;
+        font-size: 16px; 
+        font-weight: bold; 
+        border-bottom: 2px solid #ddd;
+    }
+
+    td {
+        padding: 10px;
+        color: #333;
+        font-size: 14px;
+    }
+
+    .btn-info, .btn-danger, .btn-success {
+        border: none;
+        font-size: 14px;
+        border-radius: 8px;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+    }
+
+    .btn-info:hover {
+        background-color: #3498db;
+        transform: scale(1.05);
+    }
+
+    .btn-danger:hover {
+        background-color: #e74c3c;
+        transform: scale(1.05);
+    }
+
+    .btn-success:hover {
+        background-color: #2ecc71;
+        transform: scale(1.05);
+    }
+
+    h3 {
+        padding: 10px;
+        color: #333;
+        font-size: 20px;
+    }
+</style>
+
+<div class="container">
+    <div class="panel-primary">
+        @* <div style="text-align: center; font-size: 1.5rem; font-weight: bold; color: #333;">
+            @Model.FirstName
+        </div> *@
+        <div class="panel-heading">Admin Dashboard</div>
+        <hr />
+        <div class="panel-body">
+            <div class="btn-group">
+                <a id="createEditUserModel" asp-action="Add" class="btn btn-primary">
+                    Add User
+                </a>
+                <a id="createMovieModel" asp-action="AddMovies" asp-controller="Movie" class="btn btn-primary">
+                    Add Movies
+                </a>
+                <a id="setAdminModel" asp-action="SetAdminUserList" asp-controller="Admin" class="btn btn-primary">
+                    Set Admin
+                </a>
+            </div>
+            <br /><br />
+            <hr />
+            <br />
+            <div class="btn-group">
+                <a id="viewUserModel" asp-action="UserDetails" class="btn btn-primary">
+                    Users List
+                </a>
+                <a id="viewMovieModel" href="@Url.Action("MovieDetails", "Movie")" class="btn btn-primary">
+                    Movies List
+                </a>
+                <a id="viewMovieModel" href="@Url.Action("BookingDetails", "Booking")" class="btn btn-primary">
+                    Bookings List
+                </a>
+                <a id="viewMovieModel" href="@Url.Action("GetAllPaymentDetails", "PaymentDetails")" class="btn btn-primary">
+                    Payment Details List
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

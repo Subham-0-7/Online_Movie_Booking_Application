@@ -1,0 +1,131 @@
+﻿@using Wipro_OnlineMovieBookingApplication.ViewModels
+@model UserViewModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<style>
+    body {
+        background: linear-gradient(to right, #3498db, #9b59b6);
+        font-family: 'Arial', sans-serif;
+        padding-top: 80px;
+    }
+
+    .container {
+        padding: 2rem;
+    }
+
+    .card {
+        border-radius: 15px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        background: #ADD8E6;
+        animation: fadeIn 1s ease-in;
+    }
+
+    .card-header {
+        background: linear-gradient(to right, #f2f2f2, #9b59b6);
+        color: white;
+        border-bottom: 2px solid #f2f2f2;
+        padding: 1rem;
+        border-radius: 15px 15px 0 0;
+        text-align: center;
+    }
+
+    .card-body {
+        padding: 2rem;
+    }
+
+    dl.row dt {
+        font-weight: bold;
+        color: #333;
+    }
+
+    dl.row dd {
+        color: #555;
+    }
+
+    .btn-danger {
+        background-color: #ff6f61;
+        border-color: #ff6f61;
+        transition: background-color 0.3s ease, border-color 0.3s ease;
+    }
+
+        .btn-danger:hover {
+            background-color: #d94057;
+            border-color: #d94057;
+        }
+
+    .btn-info {
+        background-color: #3498db;
+        border-color: #3498db;
+        transition: background-color 0.3s ease, border-color 0.3s ease;
+    }
+
+        .btn-info:hover {
+            background-color: #2980b9;
+            border-color: #2980b9;
+        }
+</style>
+
+<div class="container">
+    <div class="card">
+        <div class="card-header">
+            <h1>Delete User</h1>
+        </div>
+        <div class="card-body">
+            <h4>User Details</h4>
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.UserId)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.UserId)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.UserName)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.UserName)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Name)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Name)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Address)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Address)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.ContactNo)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.ContactNo)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Email)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Email)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Password)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Password)
+                </dd>
+            </dl>
+
+            <form asp-action="Delete">
+                <input type="submit" value="Delete" class="btn btn-danger btn-lg" /> |
+                <a asp-action="UserDetails" asp-controller="Admin" class="btn btn-info btn-lg">Back to User List</a>
+                <input type="hidden" asp-for="UserId" />
+            </form>
+        </div>
+    </div>
+</div>

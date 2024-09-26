@@ -1,0 +1,138 @@
+﻿@model AddUserViewModel
+@using Wipro_OnlineMovieBookingApplication.ViewModels
+
+@{
+    ViewBag.Title = "Sign Up";
+}
+
+<style>
+    body {
+        background: linear-gradient(to right, #3498db, #9b59b6);
+        font-family: 'Arial', sans-serif;
+    }
+
+    .container {
+        padding: 2rem;
+    }
+
+    .card {
+        border-radius: 15px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        animation: fadeIn 1s ease-in;
+        background: #ADD8E6;
+    }
+
+    .card-header {
+        background: linear-gradient(to right, #f2f2f2, #9b59b6);
+        color: white;
+        border-bottom: 2px solid #f2f2f2;
+        padding: 1rem;
+        border-radius: 15px 15px 0 0;
+    }
+
+    .card-body {
+        padding: 2rem;
+    }
+
+    .form-control:focus {
+        border-color: #ff6f61;
+        box-shadow: 0 0 0 0.2rem rgba(255, 111, 97, 0.25);
+    }
+
+    .btn-success {
+        background-color: #ff6f61;
+        border-color: #ff6f61;
+        transition: background-color 0.3s ease, border-color 0.3s ease;
+    }
+
+        .btn-success:hover {
+            background-color: #d94057;
+            border-color: #d94057;
+        }
+
+    .text-danger {
+        color: #d94057;
+    }
+
+    .text-center a {
+        color: #ff6f61;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+        .text-center a:hover {
+            text-decoration: underline;
+        }
+
+    .text-black {
+        color: black;
+    }
+
+</style>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8 col-lg-6">
+            <div class="card">
+                <div class="card-header text-center">
+                    <h3 class="text-black">Add New User</h3>
+                </div>
+                <div class="card-body">
+                    @using (Html.BeginForm("Add", "Admin", FormMethod.Post, new { @class = "form-horizontal" }))
+                    {
+                        @Html.AntiForgeryToken()
+
+                        <div class="form-group">
+                            <label asp-for="FirstName" class="control-label">First Name</label>
+                            @Html.TextBoxFor(m => m.FirstName, new { @class = "form-control", placeholder = "Enter your first name" })
+                            @Html.ValidationMessageFor(m => m.FirstName, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="LastName" class="control-label">Last Name</label>
+                            @Html.TextBoxFor(m => m.LastName, new { @class = "form-control", placeholder = "Enter your last name" })
+                            @Html.ValidationMessageFor(m => m.LastName, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Address" class="control-label">Address</label>
+                            @Html.TextBoxFor(m => m.Address, new { @class = "form-control", placeholder = "Enter your Address" })
+                            @Html.ValidationMessageFor(m => m.Address, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="ContactNo" class="control-label">Contact Number</label>
+                            @Html.TextBoxFor(m => m.ContactNo, new { @class = "form-control", placeholder = "Enter Contact number" })
+                            @Html.ValidationMessageFor(m => m.ContactNo, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="UserName" class="control-label">Username</label>
+                            @Html.TextBoxFor(m => m.UserName, new { @class = "form-control", placeholder = "Enter Username" })
+                            @Html.ValidationMessageFor(m => m.UserName, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Email" class="control-label">Email</label>
+                            @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder = "Enter Email" })
+                            @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Password" class="control-label">Password</label>
+                            @Html.PasswordFor(m => m.Password, new { @class = "form-control", placeholder = "Enter Password" })
+                            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                        </div>
+
+                        <div class="form-group text-center">
+                            <button type="submit" class="btn btn-success btn-lg btn-block">ADD</button>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

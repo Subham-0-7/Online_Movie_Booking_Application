@@ -1,0 +1,129 @@
+﻿@model IEnumerable<Wipro_OnlineMovieBookingApplication.ViewModels.BookingViewModel>
+@using System.Globalization
+
+@{
+    ViewData["Title"] = "Bookings List";
+}
+
+<style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(135deg, #89fffd, #ef32d9);
+        padding: 20px;
+    }
+
+    h2 {
+        color: #333;
+        text-align: center;
+        font-size: 2rem;
+        margin-bottom: 20px;
+        text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    }
+
+    .table {
+        width: 100%;
+        background-color: #fff;
+        border-radius: 12px;
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        margin-bottom: 20px;
+        overflow: hidden;
+    }
+
+        .table th, .table td {
+            padding: 15px;
+            text-align: center;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .table thead {
+            background-color: #ef32d9;
+            background-image: linear-gradient(135deg, #ef32d9, #89fffd);
+            color: white;
+            font-weight: bold;
+        }
+
+        .table tbody tr:hover {
+            background-color: #f9f9f9;
+            transition: background-color 0.3s ease-in-out;
+        }
+
+    .btn {
+        background-color: #ef32d9;
+        border: none;
+        color: white;
+        padding: 10px 20px;
+        border-radius: 20px;
+        font-size: 1rem;
+        transition: background-color 0.3s ease, transform 0.3s ease;
+        text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+    }
+
+        .btn:hover {
+            background-color: #89fffd;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        }
+
+    .btn-info {
+        background-color: #17a2b8;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+    }
+
+        .btn-primary:hover, .btn-info:hover {
+            background-color: #0056b3;
+        }
+
+    .dashboard-link {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+</style>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<h2>@ViewData["Title"]</h2>
+<hr />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Email</th>
+            <th>Movie Name</th>
+            <th>Booking Date</th>
+            <th>Show Time</th>
+            <th>Number of Tickets</th>
+            <th>Movie Price</th>
+            <th>Total Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var booking in Model)
+        {
+            <tr>
+                <td>@booking.Email</td>
+                <td>@booking.MovieName</td>
+                <td>@booking.BookingDate.ToShortDateString()</td>
+                <td>@booking.ShowTime</td>
+                <td>@booking.NumberOfTickets</td>
+                <td>@booking.MoviePrice.ToString("C", new CultureInfo("en-IN"))</td>
+                <td>@booking.TotalPrice.ToString("C", new CultureInfo("en-IN"))</td>
+                <td>
+                    <a href="@Url.Action("BookingDetailsForOne", "Booking", new { bookingId = booking.BookingId })" class="btn btn-info">View Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="dashboard-link">
+    <a href="@Url.Action("AdminDashboard", "Admin")" class="btn btn-primary">Go back to Dashboard</a>
+</div>

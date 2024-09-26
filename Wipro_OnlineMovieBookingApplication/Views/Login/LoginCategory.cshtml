@@ -1,0 +1,146 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Login Type";
+}
+
+<style>
+    body {
+        font-family: 'Poppins', sans-serif;
+        background-color: #f2f2f2;
+        margin: 0;
+        padding-top: 80px;
+        height: 100vh;
+        background: url('https://i.ibb.co/p1d2z2r/Avatar-Background2.jpg') no-repeat center center fixed, linear-gradient(135deg, #71b7e6, #9b59b6);
+        overflow: hidden;
+    }
+
+    .center-login {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: calc(100vh - 80px);
+        padding: 20px;
+    }
+
+    .login-container {
+        background-color: #fff;
+        padding: 40px;
+        border-radius: 15px;
+        box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+        animation: slideIn 1s ease-in-out;
+        width: 100%;
+        max-width: 400px;
+    }
+
+        .login-container h2 {
+            color: #333;
+            text-align: center;
+            font-size: 28px;
+            font-weight: 600;
+            margin-bottom: 30px;
+        }
+
+    .login-description {
+        font-size: 16px;
+        color: #555;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .btn {
+        display: block;
+        width: 100%;
+        padding: 12px;
+        font-size: 16px;
+        border-radius: 25px;
+        text-align: center;
+        margin-bottom: 20px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        color: white;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        color: white;
+    }
+
+        .btn-secondary:hover {
+            background-color: #5a6268;
+        }
+
+    .btn-link {
+        display: inline-block;
+        background-color: #3498db;
+        color: white;
+        padding: 10px 20px;
+        border-radius: 50px;
+        text-decoration: none;
+        font-size: 16px;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+        margin: 5px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    }
+
+        .btn-link:hover {
+            background-color: #2980b9;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+        }
+
+    .text-center {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+        .text-center p {
+            font-size: 16px;
+            margin-bottom: 10px;
+            color: #2c3e50;
+        }
+
+    body::before {
+        content: '';
+        position: absolute;
+        top: -10%;
+        left: -10%;
+        width: 200%;
+        height: 200%;
+        background: linear-gradient(135deg, #71b7e6, #9b59b6);
+        background-size: 400% 400%;
+        z-index: -1;
+        animation: gradientAnimation 15s ease infinite;
+    }
+</style>
+
+<section id="loginType" class="center-login">
+    <div class="login-container">
+        <h2>Select Login Type</h2>
+        <p class="login-description">
+            Choose your login type to access your personalized dashboard. Whether you are an Admin or a User, log in to manage your account.
+        </p>
+
+        <div class="form-group">
+            @Html.ActionLink("Login as Admin", "AdminLogin", "Login", null, new { @class = "btn btn-primary" })
+        </div>
+
+        <div class="form-group">
+            @Html.ActionLink("Login as User", "UserLogin", "Login", null, new { @class = "btn btn-secondary" })
+        </div>
+
+
+        <div class="text-center">
+            <p>Don’t have an account?</p>
+            <a href="@Url.Action("Register", "Register")" class="btn-link">Sign up</a>
+            <a href="@Url.Action("Index", "Home")" class="btn-link">Home</a>
+        </div>
+    </div>
+</section>

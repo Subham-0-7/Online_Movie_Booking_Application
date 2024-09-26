@@ -1,0 +1,526 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>@ViewData["Title"]</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<style>
+    body {
+        background: url('https://i.ibb.co/649G01c/noom-peerapong-2uw-FEAGUm6-E-unsplash.jpg') no-repeat center center fixed, radial-gradient(circle, rgba(240,248,255,1) 0%, rgba(173,216,230,1) 50%, rgba(135,206,235,1) 100%);
+        background-size: cover;
+        font-family: 'Arial', sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+
+    .navbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        background-color: #f8f9fa;
+        padding: 1rem 2rem;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 1000;
+    }
+
+    .navbar-left,
+    .navbar-right {
+        display: flex;
+        gap: 15px;
+    }
+
+    .navbar a {
+        color: #333;
+        font-size: 1.1rem;
+        text-decoration: none;
+    }
+
+        .navbar a:hover {
+            color: #007bff;
+        }
+
+    .content {
+        padding-top: 6rem;
+    }
+
+    /* Carousel styling */
+    .container {
+        max-width: 100%;
+        overflow: hidden;
+    }
+
+    .content {
+        position: relative;
+        width: 80%;
+        max-width: 1200px;
+        margin: 0 auto; 
+        overflow: hidden;
+    }
+
+    .carousel {
+        position: relative;
+        width: 100%;
+        height: 400px;
+        overflow: hidden;
+    }
+
+    .carousel-track {
+        display: flex;
+        width: 100%;
+        height: 100%;
+        transition: transform 0.5s ease-in-out;
+    }
+
+    .carousel-slide {
+        display: flex;
+        width: 100%;
+        height: 100%;
+    }
+
+        .carousel-slide img {
+            width: 100%;
+            height: auto;
+            object-fit: cover;
+            flex: 1;
+        }
+
+    .carousel-btn {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background-color: rgba(0, 0, 0, 0.5);
+        color: white;
+        border: none;
+        padding: 10px;
+        cursor: pointer;
+        z-index: 1;
+    }
+
+        .carousel-btn.prev {
+            left: 10px;
+        }
+
+        .carousel-btn.next {
+            right: 10px;
+        }
+
+    .recommended-section {
+        margin-top: 2rem;
+    }
+
+        .recommended-section h2 {
+            font-size: 1.75rem;
+            margin-bottom: 1rem;
+            color: #333;
+        }
+
+    .movie-list {
+        display: flex;
+        gap: 1rem;
+        overflow-x: auto;
+    }
+
+    .movie-item {
+        min-width: 150px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        background-color: white;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .movie-item img {
+            height: 250px;
+            width: 100%;
+            border-radius: 10px;
+            transition: transform 0.3s ease;
+        }
+
+        .movie-item h3 {
+            font-size: 1.1rem;
+            color: #333;
+            margin-top: 0.5rem;
+        }
+
+        .movie-item p {
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        /* Hover Effects */
+        .movie-item:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+
+            .movie-item:hover img {
+                transform: scale(1.1);
+            }
+
+            .movie-item:hover h3 {
+                color: #007bff;
+            }
+
+            .movie-item:hover p {
+                color: #007bff;
+            }
+
+
+    .jumbotron {
+        background-color: #f0f8ff;
+        padding: 4rem 2rem;
+        text-align: center;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        margin-top: 6rem;
+    }
+
+    .custom-jumbotron {
+        background-color: rgba(255, 255, 255, 0.8);
+        padding: 2rem;
+        border-radius: 10px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        color: #333;
+        max-width: 800px;
+        margin: 2rem auto;
+    }
+
+        .custom-jumbotron h1 {
+            font-size: 2.5rem;
+            color: #007bff;
+        }
+
+        .custom-jumbotron p {
+            font-size: 1.2rem;
+            color: #666;
+            margin-bottom: 1rem;
+        }
+
+        .custom-jumbotron .btn {
+            margin: 0.5rem;
+            padding: 0.75rem 1.5rem;
+            font-size: 1.2rem;
+        }
+
+        .jumbotron a.btn-primary {
+            background-color: #007bff;
+            color: #fff;
+        }
+
+            .jumbotron a.btn-primary:hover {
+                background-color: #0056b3;
+                color: #fff;
+            }
+
+        .jumbotron a.btn-success {
+            background-color: #28a745;
+            color: #fff;
+        }
+
+            .jumbotron a.btn-success:hover {
+                background-color: #218838;
+                color: #fff;
+            }
+
+    .special-offers {
+        background-color: #000;
+        color: #fff; 
+        padding: 2rem; 
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+        max-width: 800px;
+        margin: 2rem auto;
+        text-align: center;
+    }
+
+        .special-offers h2 {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            color: #f39c12;
+            font-family: 'Arial', sans-serif;
+            text-transform: uppercase;
+        }
+
+        .special-offers p {
+            font-size: 1.1rem;
+            line-height: 1.6;
+            margin-bottom: 1.5rem;
+            font-family: 'Verdana', sans-serif;
+            color: #ddd;
+        }
+
+        .special-offers ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+            .special-offers ul li {
+                margin: 0.5rem 0;
+                font-size: 1.1rem;
+                font-family: 'Verdana', sans-serif;
+                color: #ecf0f1;
+            }
+
+                .special-offers ul li strong {
+                    color: #e74c3c;
+                }
+
+                .special-offers ul li::before {
+                    content: '★ ';
+                    color: #f39c12;
+                }
+
+        .special-offers p:last-of-type {
+            font-size: 1rem;
+            font-style: italic; 
+            color: #bbb;
+        }
+
+</style>
+
+<div class="navbar">
+    <div class="navbar-left">
+        <a href="@Url.Action("Index", "Home")">Home</a>
+        <a href="@Url.Action("Featured Movies", "Home")">Featured Movies</a>
+        <a href="@Url.Action("Latest Releases", "Home")">Latest Releases</a>
+    </div>
+
+    <div class="navbar-right">
+        <a href="@Url.Action("LoginCategory", "Login")">Log in</a>
+        <a href="@Url.Action("Register", "Register")">Sign up</a>
+    </div>
+</div>
+
+<div class="container">
+    <!-- Carousel for Featured Movies -->
+    <div class="content">
+        <div class="carousel">
+            <div class="carousel-track">
+                <div class="carousel-slide">
+                    <img src="@Url.Content("~/images/Stree2.jpg")" alt="Featured Movie 1">
+                    <img src="@Url.Content("~/images/Kalki.jpg")" alt="Featured Movie 2">
+                    <img src="@Url.Content("~/images/Pradhan.jpg")" alt="Featured Movie 3">
+                </div>
+                <div class="carousel-slide">
+                    <img src="@Url.Content("~/images/Avengers_EndGame.jpg")" alt="Featured Movie 4">
+                    <img src="@Url.Content("~/images/Parmanu.jpg")" alt="Featured Movie 5">
+                    <img src="@Url.Content("~/images/Intersteller.jpg")" alt="Featured Movie 6">
+                </div>
+                <div class="carousel-slide">
+                    <img src="@Url.Content("~/images/Baahubali_TheBegining.jpg")" alt="Featured Movie 9">
+                    <img src="@Url.Content("~/images/Bajirao_Mastani.jpg")" alt="Featured Movie 10">
+                    <img src="@Url.Content("~/images/MenInBlack.jpg")" alt="Featured Movie 11">
+                    <!-- Add more slides as needed -->
+                </div>
+            </div>
+            <button class="carousel-btn prev">&lt;</button>
+            <button class="carousel-btn next">&gt;</button>
+        </div>
+    </div>
+
+
+
+    <div class="jumbotron custom-jumbotron">
+        <h1>Welcome to MovieBooking</h1>
+        <p>The best place to book tickets for the latest movies online!</p>
+        <p>Sign up now to enjoy seamless booking, exclusive offers, and personalized recommendations.</p>
+        <p>Already have an account? Log in to manage your bookings and more!</p>
+
+        <a href="@Url.Action("LoginCategory", "Login")" class="btn btn-primary btn-lg">Login</a>
+        <a href="@Url.Action("Register", "Register")" class="btn btn-success btn-lg">Sign Up</a>
+    </div>
+
+    <!-- Recommended Movies Section -->
+    <div class="recommended-section">
+        <h2 style="text-align: center; color: #ffcc00;">Recommended Movies</h2>
+        <div class="movie-list">
+            <div class="movie-item">
+                <img src="@Url.Content("~/images/Avengers_EndGame.jpg")" alt="Movie 1">
+                <h3>Movie 1</h3>
+                <p>Action/Adventure</p>
+            </div>
+            <div class="movie-item">
+                <img src="@Url.Content("~/images/Parmanu.jpg")" alt="Movie 2">
+                <h3>Movie 2</h3>
+                <p>Drama/Thriller</p>
+            </div>
+            <div class="movie-item">
+                <img src="https://i.ibb.co/5KsbV1P/matthew-mcconaughey-interstellar-movie-movies-astronaut-wallpaper-preview.jpg" alt="Movie 3">
+                <h3>Movie 3</h3>
+                <p>Sci-Fi</p>
+            </div>
+            <div class="movie-item">
+                <img src="https://i.ibb.co/xCGMKmT/Baahubali-The-Begining.jpg" alt="Movie 4">
+                <h3>Movie 4</h3>
+                <p>Action</p>
+            </div>
+            <div class="movie-item">
+                <img src="https://i.ibb.co/MZk4Z1s/wp1922370.jpg" alt="Movie 5">
+                <h3>Movie 5</h3>
+                <p>Horror</p>
+            </div>
+            <!-- Add more movie items here -->
+        </div>
+    </div>
+
+    <div class="special-offers">
+        <h2>Exclusive Offers</h2>
+        <p>Don't miss out on our exclusive offers and discounts! Whether you're planning a movie night with friends or booking tickets for the latest blockbuster, we’ve got you covered.</p>
+        <ul>
+            <li><strong>50% off</strong> on your first booking when you sign up!</li>
+            <li><strong>Buy 1 Get 1 Free</strong> on select movies during the weekend!</li>
+            <li>Special discounts for students and senior citizens.</li>
+        </ul>
+        <p>Keep an eye on this space for more offers and updates!</p>
+    </div>
+
+    <!-- Upcoming Releases Section -->
+    <div class="upcoming-releases" style="background-color: #000; color: #fff; padding: 2rem; border-radius: 10px; box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);">
+        <h2 style="text-align: center; color: #ffcc00;">Upcoming Releases</h2>
+        <p style ="font-size: 1.1rem; color: #ddd;">Here are some exciting movies hitting theaters soon. Be the first to book your tickets!</p>
+        <div class="movie-list">
+            <div class="movie-item">
+                <img src="@Url.Content("~/images/Stree2.jpg")" alt="Upcoming Movie 1">
+                <h3>Upcoming Movie 1</h3>
+                <p>Release Date: October 5, 2024</p>
+            </div>
+            <div class="movie-item">
+                <img src="@Url.Content("~/images/Kalki.jpg")" alt="Upcoming Movie 2">
+                <h3>Upcoming Movie 2</h3>
+                <p>Release Date: November 12, 2024</p>
+            </div>
+            <div class="movie-item">
+                <img src="@Url.Content("~/images/Pradhan.jpg")" alt="Upcoming Movie 3">
+                <h3>Upcoming Movie 3</h3>
+                <p>Release Date: December 20, 2024</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Why Choose Us Section -->
+    <div class="why-choose-us" style="background-color: #000; color: #fff; padding: 2rem; border-radius: 10px; box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);">
+        <h2 style="text-align: center; color: #ffcc00;">Why Choose MovieBooking?</h2>
+        <p style="font-size: 1.1rem; color: #ddd;">At MovieBooking, we aim to provide a seamless and enjoyable ticket booking experience. Here's why you should choose us:</p>
+        <ul style="list-style: none; padding-left: 0;">
+            <li style="padding: 0.5rem 0;"><i class="fas fa-check-circle" style="color: #ffcc00;"></i> Easy-to-use interface for quick and hassle-free bookings.</li>
+            <li style="padding: 0.5rem 0;"><i class="fas fa-check-circle" style="color: #ffcc00;"></i> Access to a wide variety of movies, including new releases and classics.</li>
+            <li style="padding: 0.5rem 0;"><i class="fas fa-check-circle" style="color: #ffcc00;"></i> Exclusive offers and rewards for registered members.</li>
+            <li style="padding: 0.5rem 0;"><i class="fas fa-check-circle" style="color: #ffcc00;"></i> Personalized recommendations based on your preferences.</li>
+            <li style="padding: 0.5rem 0;"><i class="fas fa-check-circle" style="color: #ffcc00;"></i> Secure and convenient payment options.</li>
+        </ul>
+    </div>
+
+    <!-- Testimonials Section -->
+    <div class="testimonials" style="background-color: #000; color: #fff; padding: 2rem; margin-top: 2rem; border-radius: 10px; box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);">
+        <h2 style="text-align: center; color: #ffcc00;">What Our Customers Say</h2>
+        <blockquote style="border-left: 5px solid #ffcc00; padding-left: 1rem; margin-bottom: 1.5rem;">
+            <p style="color: #ddd; font-style: italic;">"MovieBooking is my go-to platform for booking tickets. The interface is easy to navigate, and the offers are fantastic!"</p>
+            <footer style="text-align: right; font-size: 0.9rem; color: #bbb;">- Subham, Avid Moviegoer</footer>
+        </blockquote>
+        <blockquote style="border-left: 5px solid #ffcc00; padding-left: 1rem;">
+            <p style="color: #ddd; font-style: italic;">"I love how fast and convenient the booking process is. I also appreciate the special discounts for students!"</p>
+            <footer style="text-align: right; font-size: 0.9rem; color: #bbb;">- Rahul, University Student</footer>
+        </blockquote>
+    </div>
+
+</div>
+
+@* <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const track = document.querySelector('.carousel-track');
+        const images = Array.from(track.children);
+        const prevButton = document.querySelector('.carousel-btn.prev');
+        const nextButton = document.querySelector('.carousel-btn.next');
+
+        let currentIndex = 0;
+
+        function updateCarousel() {
+            const slideWidth = images[currentIndex].getBoundingClientRect().width;
+            track.style.transform = `translateX(-${slideWidth * currentIndex}px)`;
+        }
+
+        // Move to the next slide
+        nextButton.addEventListener('click', () => {
+            if (currentIndex < images.length - 1) {
+                currentIndex++;
+            } else {
+                currentIndex = 0; // Loop back to the first image
+            }
+            updateCarousel();
+        });
+
+        // Move to the previous slide
+        prevButton.addEventListener('click', () => {
+            if (currentIndex > 0) {
+                currentIndex--;
+            } else {
+                currentIndex = images.length - 1; // Loop back to the last image
+            }
+            updateCarousel();
+        });
+
+        // Adjust when resizing
+        window.addEventListener('resize', updateCarousel);
+    });
+</script> *@
+
+@section Scripts {
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const carouselTrack = document.querySelector('.carousel-track');
+            const images = document.querySelectorAll('.carousel-track img');
+            let currentIndex = 0;
+            const imagesPerSlide = 3; // Number of images to be displayed per slide
+            const totalImages = Math.ceil(images.length / imagesPerSlide); // Total number of slides
+            const slideInterval = 3000; // Change slide every 3 seconds
+
+            // Set the width of the carousel-track based on the number of images and imagesPerSlide
+            carouselTrack.style.width = `${totalImages * 100}%`;
+
+            images.forEach(img => {
+                img.style.width = `${100 / totalImages}%`;
+            });
+
+            function updateCarousel() {
+                const offset = -currentIndex * (100 / totalImages); // Adjust the offset for the slide
+                carouselTrack.style.transform = `translateX(${offset}%)`;
+            }
+
+            function moveToNextSlide() {
+                currentIndex = (currentIndex + 1) % totalImages;
+                updateCarousel();
+            }
+
+            function moveToPreviousSlide() {
+                currentIndex = (currentIndex - 1 + totalImages) % totalImages;
+                updateCarousel();
+            }
+
+            // Automatically slide images every few seconds
+            setInterval(moveToNextSlide, slideInterval);
+
+            // Button controls
+            document.querySelector('.prev').addEventListener('click', function () {
+                moveToPreviousSlide();
+            });
+
+            document.querySelector('.next').addEventListener('click', function () {
+                moveToNextSlide();
+            });
+
+            // Initial update
+            updateCarousel();
+        });
+    </script>
+}
+
+
+
+

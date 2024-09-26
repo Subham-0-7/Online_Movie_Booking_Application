@@ -1,0 +1,120 @@
+﻿@using Wipro_OnlineMovieBookingApplication.ViewModels
+@model UserViewModel
+
+@{
+    ViewData["Title"] = "User Details";
+}
+
+<style>
+    body {
+        font-family: 'Poppins', sans-serif;
+        background: linear-gradient(135deg, #00b09b, #96c93d);
+        margin: 0;
+        padding: 0;
+    }
+
+    .container {
+        background-color: #ffffff;
+        padding: 40px;
+        border-radius: 20px;
+        box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.2);
+        width: 60%;
+        margin: 60px auto;
+        animation: slideIn 1s ease-in-out;
+    }
+
+    h1 {
+        font-size: 36px;
+        color: #2c3e50;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    h3 {
+        font-size: 24px;
+        color: #34495e;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    dl {
+        margin: 20px 0;
+    }
+
+    .row dt {
+        font-weight: bold;
+        font-size: 16px;
+        color: #7f8c8d;
+        margin-bottom: 8px;
+    }
+
+    .row dd {
+        font-size: 16px;
+        color: #2c3e50;
+        margin-bottom: 16px;
+        padding-left: 20px;
+        border-left: 5px solid #00b09b;
+        background: #f9f9f9;
+        border-radius: 10px;
+        padding: 10px;
+    }
+
+    .btn-primary {
+        background-color: #00b09b;
+        border: none;
+        padding: 12px 24px;
+        color: white;
+        border-radius: 30px;
+        font-size: 18px;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+        display: block;
+        text-align: center;
+        width: 160px;
+        margin: 30px auto 0;
+        text-decoration: none;
+    }
+
+    .btn-primary:hover {
+        background-color: #009e77;
+        transform: scale(1.05);
+    }
+
+    hr {
+        border: none;
+        height: 1px;
+        background: linear-gradient(to right, #00b09b, #96c93d);
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+</style>
+
+<div class="container">
+    <h1>User Details</h1>
+    <h3>@Html.DisplayFor(Model => Model.Name)</h3>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-4">@Html.DisplayNameFor(model => model.UserId)</dt>
+        <dd class="col-sm-8">@Html.DisplayFor(model => model.UserId)</dd>
+
+        <dt class="col-sm-4">@Html.DisplayNameFor(model => model.UserName)</dt>
+        <dd class="col-sm-8">@Html.DisplayFor(model => model.UserName)</dd>
+
+        <dt class="col-sm-4">@Html.DisplayNameFor(model => model.Name)</dt>
+        <dd class="col-sm-8">@Html.DisplayFor(model => model.Name)</dd>
+
+        <dt class="col-sm-4">@Html.DisplayNameFor(model => model.Address)</dt>
+        <dd class="col-sm-8">@Html.DisplayFor(model => model.Address)</dd>
+
+        <dt class="col-sm-4">@Html.DisplayNameFor(model => model.ContactNo)</dt>
+        <dd class="col-sm-8">@Html.DisplayFor(model => model.ContactNo)</dd>
+
+        <dt class="col-sm-4">@Html.DisplayNameFor(model => model.Email)</dt>
+        <dd class="col-sm-8">@Html.DisplayFor(model => model.Email)</dd>
+
+        <dt class="col-sm-4">@Html.DisplayNameFor(model => model.Password)</dt>
+        <dd class="col-sm-8">@Html.DisplayFor(model => model.Password)</dd>
+    </dl>
+
+    <a asp-action="Edit" asp-controller="User" asp-route-id="@Model.UserId" class="btn btn-primary">Edit Profile</a>
+    <a asp-action="Delete" asp-controller="User" asp-route-id="@Model.UserId" class="btn btn-primary">Delete Profile</a>
+</div>

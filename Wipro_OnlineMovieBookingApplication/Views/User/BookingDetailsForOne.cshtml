@@ -1,0 +1,136 @@
+﻿@model Wipro_OnlineMovieBookingApplication.ViewModels.BookingViewModel
+@using System.Globalization
+
+@{
+    ViewData["Title"] = "Booking Details";
+}
+
+<style>
+    body {
+        font-family: 'Poppins', sans-serif;
+        background: linear-gradient(135deg, #74ebd5, #ACB6E5);
+        padding-top: 50px;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .container {
+        max-width: 800px;
+        width: 100%;
+        padding: 20px;
+    }
+
+    .card {
+        background-color: rgba(255, 255, 255, 0.85);
+        border-radius: 20px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        overflow: hidden;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+        .card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
+        }
+
+    .card-header {
+        background-color: #3498db;
+        color: #fff;
+        padding: 15px;
+        font-size: 24px;
+        text-align: center;
+        font-weight: bold;
+        border-bottom: 5px solid #fff; 
+        letter-spacing: 1px;
+    }
+
+    .card-body {
+        padding: 20px;
+    }
+
+    .detail-label {
+        font-weight: bold;
+        font-size: 18px;
+        color: #2c3e50; 
+        margin-bottom: 10px;
+    }
+
+    .detail-value {
+        display: block;
+        font-size: 18px;
+        margin-bottom: 20px;
+        color: #34495e;
+    }
+
+    .btn-back {
+        display: inline-block;
+        background-color: #3498db;
+        color: white;
+        padding: 12px 20px;
+        font-size: 16px;
+        text-align: center;
+        border-radius: 50px;
+        text-decoration: none;
+        transition: background-color 0.3s ease, box-shadow 0.3s ease;
+        box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); 
+    }
+
+        .btn-back:hover {
+            background-color: #2980b9;
+            box-shadow: 0px 12px 25px rgba(0, 0, 0, 0.3);
+            transform: translateY(-5px);
+        }
+
+    .card hr {
+        border: 0;
+        height: 1px;
+        background: #ddd;
+        margin: 20px 0;
+    }
+
+</style>
+
+<div class="container">
+    <div class="card">
+        <div class="card-header">
+            Booking Details
+        </div>
+        <div class="card-body">
+            <div>
+                <span class="detail-label">Email:</span>
+                <span class="detail-value">@Model.Email</span>
+            </div>
+            <div>
+                <span class="detail-label">Movie Name:</span>
+                <span class="detail-value">@Model.MovieName</span>
+            </div>
+            <div>
+                <span class="detail-label">Booking Date:</span>
+                <span class="detail-value">@Model.BookingDate.ToShortDateString()</span>
+            </div>
+            <div>
+                <span class="detail-label">Show Time:</span>
+                <span class="detail-value">@Model.ShowTime</span>
+            </div>
+            <div>
+                <span class="detail-label">Number of Tickets:</span>
+                <span class="detail-value">@Model.NumberOfTickets</span>
+            </div>
+            <div>
+                <span class="detail-label">Movie Price:</span>
+                <span class="detail-value">@Model.MoviePrice.ToString("C", new CultureInfo("en-IN"))</span>
+            </div>
+            <div>
+                <span class="detail-label">Total Price:</span>
+                <span class="detail-value">@Model.TotalPrice.ToString("C", new CultureInfo("en-IN"))</span>
+            </div>
+            <hr />
+            <div style="text-align: center;">
+                <a href="@Url.Action("BookingDetails", "User", new { userId = Model.UserId })" class="btn-back">Back to Bookings List</a>
+            </div>
+        </div>
+    </div>
+</div>

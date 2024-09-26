@@ -1,0 +1,165 @@
+﻿@using Wipro_OnlineMovieBookingApplication.ViewModels
+@model MovieViewModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <style>
+        body {
+            background: linear-gradient(135deg, #74ebd5, #ACB6E5);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .container {
+            margin-top: 50px;
+            max-width: 800px;
+            animation: fadeInUp 1s ease-in-out;
+        }
+
+        .content-container {
+            background: #fff;
+            border-radius: 15px;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+            padding: 40px;
+        }
+
+        .content-container h1 {
+            margin-bottom: 30px;
+            color: #333;
+            font-size: 32px;
+            font-weight: bold;
+            text-align: center;
+            background: linear-gradient(to right, #74ebd5, #ACB6E5);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .content-container dl {
+            margin-bottom: 30px;
+        }
+
+        .content-container dt {
+            font-weight: 600;
+            color: #555;
+        }
+
+        .content-container dd {
+            margin-bottom: 20px;
+        }
+
+        .btn-danger {
+            background-color: #dc3545;
+            border-color: #dc3545;
+            border-radius: 25px;
+            padding: 10px 20px;
+            font-weight: bold;
+            text-decoration: none;
+            transition: background-color 0.3s ease, border-color 0.3s ease;
+        }
+
+        .btn-danger:hover {
+            background-color: #c82333;
+            border-color: #bd2130;
+        }
+
+        .btn-secondary {
+            background-color: #fff;
+            border-color: #ddd;
+            color: #000;
+            border-radius: 25px;
+            padding: 10px 20px;
+            font-weight: bold;
+            text-decoration: none;
+            transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+        }
+
+        .btn-secondary:hover {
+            background-color: #f8f9fa;
+            border-color: #ccc;
+            color: #333;
+        }
+
+        .text-center a {
+            color: #74ebd5;
+            font-size: 18px;
+        }
+
+        .text-center a:hover {
+            color: #ACB6E5;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="content-container">
+            <h1>@ViewData["Title"]</h1>
+
+            <div>
+                <h4>Movie Details</h4>
+                <hr />
+                <dl class="row">
+                    <dt class="col-sm-3">
+                        @Html.DisplayNameFor(model => model.MovieId)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.MovieId)
+                    </dd>
+                    <dt class="col-sm-3">
+                        @Html.DisplayNameFor(model => model.MovieName)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.MovieName)
+                    </dd>
+                    <dt class="col-sm-3">
+                        @Html.DisplayNameFor(model => model.Synopsis)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.Synopsis)
+                    </dd>
+                    <dt class="col-sm-3">
+                        @Html.DisplayNameFor(model => model.Director)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.Director)
+                    </dd>
+                    <dt class="col-sm-3">
+                        @Html.DisplayNameFor(model => model.Duration)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.Duration)
+                    </dd>
+                    <dt class="col-sm-3">
+                        @Html.DisplayNameFor(model => model.Rating)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.Rating)
+                    </dd>
+                </dl>
+
+                <form asp-action="DeleteMovies">
+                    <div class="text-center">
+                        <input type="submit" value="Delete" class="btn btn-danger" />
+                        <a href="@Url.Action("AdminDashboard", "Admin")" class="btn btn-secondary">
+                            <i class="fas fa-arrow-left"></i> Back to Dashboard
+                        </a>
+                        <input type="hidden" asp-for="MovieId" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

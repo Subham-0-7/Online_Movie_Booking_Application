@@ -1,0 +1,1794 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\booking\\bookingdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\booking\\bookingdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\admin\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\admin\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\paymentdetails\\downloadaspdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\paymentdetails\\downloadaspdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\paymentdetails\\getpaymentdetailsforone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\paymentdetails\\getpaymentdetailsforone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\paymentdetails\\getallpaymentdetailsforuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\paymentdetails\\getallpaymentdetailsforuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\paymentdetails\\getallpaymentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\paymentdetails\\getallpaymentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\booking\\bookingdetailsforone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\booking\\bookingdetailsforone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A116A5-B0EE-4F4E-B912-67210223FC9C}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\services\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A116A5-B0EE-4F4E-B912-67210223FC9C}|Services\\Services.csproj|solutionrelative:services\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\apicontrollers\\adminapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\apicontrollers\\adminapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\admin\\setadminuserlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\admin\\setadminuserlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\controllers\\paymentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\controllers\\paymentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\admin\\userdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\admin\\userdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\apicontrollers\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\apicontrollers\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847260D6-1B7A-4A46-8420-A0A1E86A7115}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847260D6-1B7A-4A46-8420-A0A1E86A7115}|Domain\\Domain.csproj|solutionrelative:domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\admin\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\admin\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\successpopup\\setadminsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\successpopup\\setadminsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\successpopup\\addusersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\successpopup\\addusersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\controllers\\successpopupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\controllers\\successpopupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A116A5-B0EE-4F4E-B912-67210223FC9C}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\services\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A116A5-B0EE-4F4E-B912-67210223FC9C}|Services\\Services.csproj|solutionrelative:services\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A116A5-B0EE-4F4E-B912-67210223FC9C}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\services\\repository\\paymentdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A116A5-B0EE-4F4E-B912-67210223FC9C}|Services\\Services.csproj|solutionrelative:services\\repository\\paymentdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\apicontrollers\\paymentdetailsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\apicontrollers\\paymentdetailsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\movie\\addmovies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\movie\\addmovies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\movie\\moviedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\movie\\moviedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\successpopup\\loginfailureadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\successpopup\\loginfailureadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\successpopup\\editusersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\successpopup\\editusersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\successpopup\\addmoviesuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\successpopup\\addmoviesuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\apicontrollers\\registerapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\apicontrollers\\registerapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\apicontrollers\\bookingapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\apicontrollers\\bookingapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\viewmodels\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\viewmodels\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\viewmodels\\movieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\viewmodels\\movieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\viewmodels\\userloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\viewmodels\\userloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\login\\logincategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\login\\logincategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\apicontrollers\\loginapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\apicontrollers\\loginapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A116A5-B0EE-4F4E-B912-67210223FC9C}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\services\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A116A5-B0EE-4F4E-B912-67210223FC9C}|Services\\Services.csproj|solutionrelative:services\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A116A5-B0EE-4F4E-B912-67210223FC9C}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\services\\repository\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A116A5-B0EE-4F4E-B912-67210223FC9C}|Services\\Services.csproj|solutionrelative:services\\repository\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\apicontrollers\\movieapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\apicontrollers\\movieapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847260D6-1B7A-4A46-8420-A0A1E86A7115}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\domain\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847260D6-1B7A-4A46-8420-A0A1E86A7115}|Domain\\Domain.csproj|solutionrelative:domain\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A116A5-B0EE-4F4E-B912-67210223FC9C}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\services\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A116A5-B0EE-4F4E-B912-67210223FC9C}|Services\\Services.csproj|solutionrelative:services\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A116A5-B0EE-4F4E-B912-67210223FC9C}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\services\\repository\\ipaymentdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A116A5-B0EE-4F4E-B912-67210223FC9C}|Services\\Services.csproj|solutionrelative:services\\repository\\ipaymentdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A116A5-B0EE-4F4E-B912-67210223FC9C}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\services\\repository\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A116A5-B0EE-4F4E-B912-67210223FC9C}|Services\\Services.csproj|solutionrelative:services\\repository\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A116A5-B0EE-4F4E-B912-67210223FC9C}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\services\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A116A5-B0EE-4F4E-B912-67210223FC9C}|Services\\Services.csproj|solutionrelative:services\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847260D6-1B7A-4A46-8420-A0A1E86A7115}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\domain\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847260D6-1B7A-4A46-8420-A0A1E86A7115}|Domain\\Domain.csproj|solutionrelative:domain\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847260D6-1B7A-4A46-8420-A0A1E86A7115}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\domain\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847260D6-1B7A-4A46-8420-A0A1E86A7115}|Domain\\Domain.csproj|solutionrelative:domain\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC5FE900-A886-4287-8CDB-1DDDE5D88967}|DAL\\DAL.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\dal\\applicationdbcontext\\onlinemoviebookingapplicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC5FE900-A886-4287-8CDB-1DDDE5D88967}|DAL\\DAL.csproj|solutionrelative:dal\\applicationdbcontext\\onlinemoviebookingapplicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\paymentdetails\\confirmpaymentsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\paymentdetails\\confirmpaymentsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\login\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\login\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\login\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\login\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\login\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\login\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\user\\moviedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\user\\moviedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\user\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\user\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\viewmodels\\paymentdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\viewmodels\\paymentdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\dtos\\paymentdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\dtos\\paymentdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\user\\bookingdetailsforone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\user\\bookingdetailsforone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\user\\addbookingforuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\user\\addbookingforuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\viewmodels\\addbookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\viewmodels\\addbookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\viewmodels\\layoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\viewmodels\\layoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\viewmodels\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\viewmodels\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\automapper\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\automapper\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\viewmodels\\editmovieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\viewmodels\\editmovieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\user\\bookingdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\user\\bookingdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\booking\\addbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\booking\\addbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\register\\registerusersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\register\\registerusersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\movie\\editmovies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\movie\\editmovies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\movie\\deletemovies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\movie\\deletemovies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\booking\\addbookingsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\booking\\addbookingsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A116A5-B0EE-4F4E-B912-67210223FC9C}|Services\\Services.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\services\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A116A5-B0EE-4F4E-B912-67210223FC9C}|Services\\Services.csproj|solutionrelative:services\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\viewmodels\\confirmpaymentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\viewmodels\\confirmpaymentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\dtos\\confirmpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\dtos\\confirmpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\wwwroot\\images\\meninblack.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\wwwroot\\images\\meninblack.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\wwwroot\\images\\men_in_black.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\wwwroot\\images\\men_in_black.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\successpopup\\edituserbyadminsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\successpopup\\edituserbyadminsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\successpopup\\editmoviesuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\successpopup\\editmoviesuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\successpopup\\deleteviewsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\successpopup\\deleteviewsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\successpopup\\deletemoviesuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\successpopup\\deletemoviesuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\successpopup\\loginfailureuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\successpopup\\loginfailureuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\wwwroot\\images\\baahubali_thebegining.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\wwwroot\\images\\baahubali_thebegining.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\dtos\\bookingdtocreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\dtos\\bookingdtocreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\wwwroot\\images\\avengers_endgame.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\wwwroot\\images\\avengers_endgame.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\viewmodels\\addmovieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\viewmodels\\addmovieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\viewmodels\\adduserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\viewmodels\\adduserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\dtos\\userdtocreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\dtos\\userdtocreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\dtos\\moviedtocreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\dtos\\moviedtocreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\wwwroot\\images\\parmanu.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\wwwroot\\images\\parmanu.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|c:\\users\\hp\\source\\repos\\wipro_onlinemoviebookingapplication\\wipro_onlinemoviebookingapplication\\wwwroot\\images\\pradhan.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{14905BE4-2F4F-47E2-83F1-491EC173C4F3}|Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj|solutionrelative:wipro_onlinemoviebookingapplication\\wwwroot\\images\\pradhan.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetPaymentDetailsForOne.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\PaymentDetails\\GetPaymentDetailsForOne.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\PaymentDetails\\GetPaymentDetailsForOne.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\PaymentDetails\\GetPaymentDetailsForOne.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\PaymentDetails\\GetPaymentDetailsForOne.cshtml",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAJcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T13:42:15.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DownloadAsPdf.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\PaymentDetails\\DownloadAsPdf.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\PaymentDetails\\DownloadAsPdf.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\PaymentDetails\\DownloadAsPdf.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\PaymentDetails\\DownloadAsPdf.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T13:38:53.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Admin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Admin\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Admin\\Delete.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Admin\\Delete.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T07:02:06.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAmwKUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:52:28.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Admin\\Add.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Admin\\Add.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Admin\\Add.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Admin\\Add.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAE0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T07:00:05.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Admin\\Details.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Admin\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Admin\\Details.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Admin\\Details.cshtml",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T07:01:37.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T07:00:58.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Booking\\BookingDetails.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Booking\\BookingDetails.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Booking\\BookingDetails.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Booking\\BookingDetails.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHQAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T06:43:43.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllPaymentDetailsForUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\PaymentDetails\\GetAllPaymentDetailsForUser.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\PaymentDetails\\GetAllPaymentDetailsForUser.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\PaymentDetails\\GetAllPaymentDetailsForUser.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\PaymentDetails\\GetAllPaymentDetailsForUser.cshtml",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T15:55:48.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingDetailsForOne.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Booking\\BookingDetailsForOne.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Booking\\BookingDetailsForOne.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Booking\\BookingDetailsForOne.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Booking\\BookingDetailsForOne.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T06:17:43.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllPaymentDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\PaymentDetails\\GetAllPaymentDetails.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\PaymentDetails\\GetAllPaymentDetails.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\PaymentDetails\\GetAllPaymentDetails.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\PaymentDetails\\GetAllPaymentDetails.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAIQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T13:38:41.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Services\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Services\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwDYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:29:54.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\APIControllers\\AdminAPIController.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\APIControllers\\AdminAPIController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\APIControllers\\AdminAPIController.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\APIControllers\\AdminAPIController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowGkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:49:19.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAewBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:54:00.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Program.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:40:42.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:50:50.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaymentDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Controllers\\PaymentDetailsController.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Controllers\\PaymentDetailsController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Controllers\\PaymentDetailsController.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Controllers\\PaymentDetailsController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAawG4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:28:36.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SetAdminUserList.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Admin\\SetAdminUserList.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Admin\\SetAdminUserList.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Admin\\SetAdminUserList.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Admin\\SetAdminUserList.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAIgAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T14:39:44.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:35:31.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\APIControllers\\UserAPIController.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\APIControllers\\UserAPIController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\APIControllers\\UserAPIController.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\APIControllers\\UserAPIController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwBMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:13:41.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Domain\\Models\\User.cs",
+              "RelativeToolTip": "Domain\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:20:10.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:48:12.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Admin\\UserDetails.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Admin\\UserDetails.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Admin\\UserDetails.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Admin\\UserDetails.cshtml",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAowI4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T06:58:06.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Admin\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Admin\\AdminDashboard.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Admin\\AdminDashboard.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Admin\\AdminDashboard.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAHwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T05:27:38.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SetAdminSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\SetAdminSuccess.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\SetAdminSuccess.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\SetAdminSuccess.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\SetAdminSuccess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T14:11:23.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Services\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Services\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:29:32.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddUserSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\AddUserSuccess.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\AddUserSuccess.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\AddUserSuccess.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\AddUserSuccess.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:53:39.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\appsettings.json",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-09T06:39:53.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SuccessPopUpController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Controllers\\SuccessPopUpController.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Controllers\\SuccessPopUpController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Controllers\\SuccessPopUpController.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Controllers\\SuccessPopUpController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAewDsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:52:57.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddMovies.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Movie\\AddMovies.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Movie\\AddMovies.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Movie\\AddMovies.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Movie\\AddMovies.cshtml",
+              "ViewState": "AQIAAKgAAAAAAAAAAIBJwL0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T05:02:50.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PaymentDetailsAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\APIControllers\\PaymentDetailsAPIController.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\APIControllers\\PaymentDetailsAPIController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\APIControllers\\PaymentDetailsAPIController.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\APIControllers\\PaymentDetailsAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:14:33.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PaymentDetailsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Services\\Repository\\PaymentDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\PaymentDetailsRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Services\\Repository\\PaymentDetailsRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\PaymentDetailsRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:03:47.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginFailureAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\LoginFailureAdmin.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\LoginFailureAdmin.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\LoginFailureAdmin.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\LoginFailureAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T09:24:14.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MovieDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Movie\\MovieDetails.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Movie\\MovieDetails.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Movie\\MovieDetails.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Movie\\MovieDetails.cshtml",
+              "ViewState": "AQIAAJkAAAAAAAAAAIBJwKkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T06:43:15.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EditUserSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\EditUserSuccess.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\EditUserSuccess.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\EditUserSuccess.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\EditUserSuccess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:53:53.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddMovieSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\AddMovieSuccess.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\AddMovieSuccess.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\AddMovieSuccess.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\AddMovieSuccess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:54:17.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RegisterAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\APIControllers\\RegisterAPIController.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\APIControllers\\RegisterAPIController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\APIControllers\\RegisterAPIController.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\APIControllers\\RegisterAPIController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwB4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:33:52.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Register\\Register.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Register\\Register.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Register\\Register.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Register\\Register.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAIBJwEsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T13:41:30.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwGEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:39:44.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwFMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:11:25.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BookingAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\APIControllers\\BookingAPIController.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\APIControllers\\BookingAPIController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\APIControllers\\BookingAPIController.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\APIControllers\\BookingAPIController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwEQAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:13:51.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BookingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\BookingViewModel.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\ViewModels\\BookingViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\BookingViewModel.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\ViewModels\\BookingViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBQwBUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:09:54.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MovieViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\MovieViewModel.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\ViewModels\\MovieViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\MovieViewModel.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\ViewModels\\MovieViewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:14:31.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAIBJwE8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T14:36:29.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAANoAAAAAAAAAAIBJwBkBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T06:59:24.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserLoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\UserLoginViewModel.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\ViewModels\\UserLoginViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\UserLoginViewModel.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\ViewModels\\UserLoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:38:16.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LoginCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Login\\LoginCategory.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Login\\LoginCategory.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Login\\LoginCategory.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Login\\LoginCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwIMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T09:30:51.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoginAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\APIControllers\\LoginAPIController.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\APIControllers\\LoginAPIController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\APIControllers\\LoginAPIController.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\APIControllers\\LoginAPIController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA+wBQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:38:46.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Services\\Repository\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Services\\Repository\\LoginRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\LoginRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAtwBIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:27:48.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ILoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Services\\Repository\\ILoginRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\ILoginRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Services\\Repository\\ILoginRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\ILoginRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:27:34.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MovieAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\APIControllers\\MovieAPIController.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\APIControllers\\MovieAPIController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\APIControllers\\MovieAPIController.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\APIControllers\\MovieAPIController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:32:43.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PaymentDetail.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Domain\\Models\\PaymentDetail.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\PaymentDetail.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Domain\\Models\\PaymentDetail.cs",
+              "RelativeToolTip": "Domain\\Models\\PaymentDetail.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:02:35.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwEMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:16:16.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BookingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\DTOs\\BookingDTO.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\DTOs\\BookingDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\DTOs\\BookingDTO.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\DTOs\\BookingDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:15:39.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Services\\Repository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Services\\Repository\\MovieRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\MovieRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAtwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:15:27.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IPaymentDetailsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Services\\Repository\\IPaymentDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\IPaymentDetailsRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Services\\Repository\\IPaymentDetailsRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\IPaymentDetailsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:03:36.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Services\\Repository\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Services\\Repository\\IBookingRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\IBookingRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:04:58.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Services\\Repository\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Services\\Repository\\BookingRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\BookingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:06:36.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Wipro_OnlineMovieBookingApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T14:29:54.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Domain\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Domain\\Models\\Movie.cs",
+              "RelativeToolTip": "Domain\\Models\\Movie.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADgvxcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:20:13.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Domain\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Domain\\Models\\Booking.cs",
+              "RelativeToolTip": "Domain\\Models\\Booking.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:08:16.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "OnlineMovieBookingApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\DAL\\ApplicationDbContext\\OnlineMovieBookingApplicationContext.cs",
+              "RelativeDocumentMoniker": "DAL\\ApplicationDbContext\\OnlineMovieBookingApplicationContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\DAL\\ApplicationDbContext\\OnlineMovieBookingApplicationContext.cs",
+              "RelativeToolTip": "DAL\\ApplicationDbContext\\OnlineMovieBookingApplicationContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:38:31.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ConfirmPaymentSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\PaymentDetails\\ConfirmPaymentSuccess.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\PaymentDetails\\ConfirmPaymentSuccess.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\PaymentDetails\\ConfirmPaymentSuccess.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\PaymentDetails\\ConfirmPaymentSuccess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T17:27:12.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Login\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Login\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Login\\Logout.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Login\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T11:51:20.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UserLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Login\\UserLogin.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Login\\UserLogin.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Login\\UserLogin.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Login\\UserLogin.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAIBJwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T09:29:12.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AdminLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Login\\AdminLogin.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Login\\AdminLogin.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Login\\AdminLogin.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Login\\AdminLogin.cshtml",
+              "ViewState": "AQIAAGYAAAAAAAAAAIBJwGwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T08:15:38.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\User\\Details.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAIBJwGwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T13:18:15.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "MovieDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\User\\MovieDetails.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\User\\MovieDetails.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\User\\MovieDetails.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\User\\MovieDetails.cshtml",
+              "ViewState": "AQIAAI0AAAAAAAAAAIBJwEwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T05:11:01.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "UserDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\User\\UserDashboard.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\User\\UserDashboard.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\User\\UserDashboard.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\User\\UserDashboard.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAIBJwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T11:02:16.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "BookingDetailsForOne.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\User\\BookingDetailsForOne.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\User\\BookingDetailsForOne.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\User\\BookingDetailsForOne.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\User\\BookingDetailsForOne.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAIBJwGcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T07:17:31.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "PaymentDetailsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\DTOs\\PaymentDetailsDTO.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\DTOs\\PaymentDetailsDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\DTOs\\PaymentDetailsDTO.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\DTOs\\PaymentDetailsDTO.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAEwBwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:13:52.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "PaymentDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\PaymentDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\ViewModels\\PaymentDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\PaymentDetailsViewModel.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\ViewModels\\PaymentDetailsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:30:11.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "AddBookingForUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\User\\AddBookingForUser.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\User\\AddBookingForUser.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\User\\AddBookingForUser.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\User\\AddBookingForUser.cshtml",
+              "ViewState": "AQIAAHgAAAAAAAAAAIBJwJEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T13:46:38.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAALISAAAAAAAAAAAEwMUSAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-15T13:42:02.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "AddBookingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\AddBookingViewModel.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\ViewModels\\AddBookingViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\AddBookingViewModel.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\ViewModels\\AddBookingViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:18:01.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "LayoutViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\LayoutViewModel.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\ViewModels\\LayoutViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\LayoutViewModel.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\ViewModels\\LayoutViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:10:11.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "EditUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\EditUserViewModel.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\ViewModels\\EditUserViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\EditUserViewModel.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\ViewModels\\EditUserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:54:35.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\AutoMapper\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\AutoMapper\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\AutoMapper\\UserProfile.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\AutoMapper\\UserProfile.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAEwBAAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:56:06.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "EditMovieViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\EditMovieViewModel.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\ViewModels\\EditMovieViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\EditMovieViewModel.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\ViewModels\\EditMovieViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:37:41.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "BookingDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\User\\BookingDetails.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\User\\BookingDetails.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\User\\BookingDetails.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\User\\BookingDetails.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAIBJwG8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T09:13:44.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "AddBooking.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Booking\\AddBooking.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Booking\\AddBooking.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Booking\\AddBooking.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Booking\\AddBooking.cshtml",
+              "ViewState": "AQIAAIcAAAAAAAAAAIBJwJEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T07:37:50.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T13:19:38.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\User\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\User\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T13:21:26.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "RegisterUserSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Register\\RegisterUserSuccess.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Register\\RegisterUserSuccess.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Register\\RegisterUserSuccess.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Register\\RegisterUserSuccess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T13:42:41.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "EditMovies.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Movie\\EditMovies.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Movie\\EditMovies.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Movie\\EditMovies.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Movie\\EditMovies.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T08:20:26.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "DeleteMovies.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Movie\\DeleteMovies.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Movie\\DeleteMovies.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Movie\\DeleteMovies.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Movie\\DeleteMovies.cshtml",
+              "ViewState": "AQIAAIQAAAAAAAAAAIBJwGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T10:08:32.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "AddBookingSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Booking\\AddBookingSuccess.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\Booking\\AddBookingSuccess.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\Booking\\AddBookingSuccess.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\Booking\\AddBookingSuccess.cshtml",
+              "ViewState": "AQIAAFgAAAAAAAAAAIBJwEoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T07:31:41.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:27:25.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Services\\Repository\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Repository\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Services\\Repository\\IMovieRepository.cs",
+              "RelativeToolTip": "Services\\Repository\\IMovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:15:12.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "ConfirmPaymentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\ConfirmPaymentViewModel.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\ViewModels\\ConfirmPaymentViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\ConfirmPaymentViewModel.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\ViewModels\\ConfirmPaymentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:29:09.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ConfirmPaymentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\DTOs\\ConfirmPaymentDTO.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\DTOs\\ConfirmPaymentDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\DTOs\\ConfirmPaymentDTO.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\DTOs\\ConfirmPaymentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:39:09.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "MenInBlack.jpg - Bitmap [878x1390, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\MenInBlack.jpg",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\MenInBlack.jpg",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\MenInBlack.jpg - Bitmap [878x1390, 24 bit, JPG]",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\MenInBlack.jpg - Bitmap [878x1390, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-17T08:26:42.475Z",
+              "EditorCaption": " - Bitmap [878x1390, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "MovieDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\DTOs\\MovieDTO.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\DTOs\\MovieDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\DTOs\\MovieDTO.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\DTOs\\MovieDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:34:24.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Men_In_black.jpg - Bitmap [1920x1080, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\Men_In_black.jpg",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\Men_In_black.jpg",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\Men_In_black.jpg - Bitmap [1920x1080, 24 bit, JPG]",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\Men_In_black.jpg - Bitmap [1920x1080, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-17T08:10:17.669Z",
+              "EditorCaption": " - Bitmap [1920x1080, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "EditUserByAdminSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\EditUserByAdminSuccess.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\EditUserByAdminSuccess.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\EditUserByAdminSuccess.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\EditUserByAdminSuccess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-16T06:04:56.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "EditMovieSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\EditMovieSuccess.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\EditMovieSuccess.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\EditMovieSuccess.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\EditMovieSuccess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:54:27.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "DeleteViewSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\DeleteViewSuccess.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\DeleteViewSuccess.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\DeleteViewSuccess.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\DeleteViewSuccess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:54:04.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "DeleteMovieSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\DeleteMovieSuccess.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\DeleteMovieSuccess.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\DeleteMovieSuccess.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\DeleteMovieSuccess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:54:36.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "Parmanu.jpg - Bitmap [603x827, 32 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\Parmanu.jpg",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\Parmanu.jpg",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\Parmanu.jpg - Bitmap [603x827, 32 bit, JPG]",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\Parmanu.jpg - Bitmap [603x827, 32 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-16T04:16:56.934Z",
+              "EditorCaption": " - Bitmap [603x827, 32 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "Pradhan.jpg - Bitmap [278x417, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\Pradhan.jpg",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\Pradhan.jpg",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\Pradhan.jpg - Bitmap [278x417, 24 bit, JPG]",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\Pradhan.jpg - Bitmap [278x417, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-16T04:17:00.984Z",
+              "EditorCaption": " - Bitmap [278x417, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "LoginFailureUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\LoginFailureUser.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\LoginFailureUser.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\LoginFailureUser.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\SuccessPopUp\\LoginFailureUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T09:24:32.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Baahubali_TheBegining.jpg - Bitmap [1014x1408, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\Baahubali_TheBegining.jpg",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\Baahubali_TheBegining.jpg",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\Baahubali_TheBegining.jpg - Bitmap [1014x1408, 24 bit, JPG]",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\Baahubali_TheBegining.jpg - Bitmap [1014x1408, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-15T10:52:44.691Z",
+              "EditorCaption": " - Bitmap [1014x1408, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "BookingDTOCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\DTOs\\BookingDTOCreate.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\DTOs\\BookingDTOCreate.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\DTOs\\BookingDTOCreate.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\DTOs\\BookingDTOCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:31:12.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\DTOs\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\DTOs\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\DTOs\\UserLoginDTO.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\DTOs\\UserLoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:37:00.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Avengers_EndGame.jpg - Bitmap [1000x1409, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\Avengers_EndGame.jpg",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\Avengers_EndGame.jpg",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\Avengers_EndGame.jpg - Bitmap [1000x1409, 24 bit, JPG]",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\wwwroot\\images\\Avengers_EndGame.jpg - Bitmap [1000x1409, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-14T07:01:35.741Z",
+              "EditorCaption": " - Bitmap [1000x1409, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "AddMovieViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\AddMovieViewModel.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\ViewModels\\AddMovieViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\AddMovieViewModel.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\ViewModels\\AddMovieViewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:51:48.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "AddUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\AddUserViewModel.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\ViewModels\\AddUserViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\ViewModels\\AddUserViewModel.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\ViewModels\\AddUserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:54:08.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "UserDTOCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\DTOs\\UserDTOCreate.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\DTOs\\UserDTOCreate.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\DTOs\\UserDTOCreate.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\DTOs\\UserDTOCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:49:54.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "MovieDTOCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\DTOs\\MovieDTOCreate.cs",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\DTOs\\MovieDTOCreate.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\DTOs\\MovieDTOCreate.cs",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\DTOs\\MovieDTOCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:37:54.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Wipro_OnlineMovieBookingApplication\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Wipro_OnlineMovieBookingApplication\\Wipro_OnlineMovieBookingApplication\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Wipro_OnlineMovieBookingApplication\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T13:58:52.199Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

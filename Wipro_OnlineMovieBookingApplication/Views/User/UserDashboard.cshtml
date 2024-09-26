@@ -1,0 +1,152 @@
+﻿@model Wipro_OnlineMovieBookingApplication.ViewModels.UserViewModel
+
+<style>
+    body {
+        font-family: 'Poppins', sans-serif;
+        background: url('https://i.ibb.co/p1d2z2r/Avatar-Background2.jpg') no-repeat center center;
+        background-size: cover;
+        padding-top: 80px;
+    }
+
+    .panel-primary {
+        background-color: rgba(255, 255, 255, 0.8);
+        border-radius: 10px;
+        padding: 20px;
+        box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+        margin-bottom: 30px;
+        animation: fadeIn 1.5s ease-in-out;
+    }
+
+    .panel-heading {
+        background-color: #3498db;
+        color: white;
+        padding: 10px 15px;
+        font-size: 24px;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+    }
+
+    .btn-group {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .btn-primary {
+        background-color: #1abc9c;
+        border: none;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-primary:hover {
+            background-color: #16a085;
+        }
+
+    table {
+        width: 100%;
+        background-color: white;
+        border-radius: 8px;
+        overflow: hidden;
+        animation: slideUp 1s ease;
+    }
+
+    th {
+        background-color: #2c3e50;
+        color: white; 
+        padding: 10px;
+        text-align: left;
+        font-size: 16px;
+        font-weight: bold;
+        border-bottom: 2px solid #ddd; 
+    }
+
+    td {
+        padding: 10px;
+        color: #333;
+        font-size: 14px;
+    }
+
+    .btn-info, .btn-danger, .btn-success {
+        border: none;
+        font-size: 14px;
+        border-radius: 8px;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+    }
+
+        .btn-info:hover {
+            background-color: #3498db;
+            transform: scale(1.05);
+        }
+
+        .btn-danger:hover {
+            background-color: #e74c3c;
+            transform: scale(1.05);
+        }
+
+        .btn-success:hover {
+            background-color: #2ecc71;
+            transform: scale(1.05);
+        }
+
+    h3 {
+        padding: 10px;
+        color: #333;
+        font-size: 14px;
+    }
+</style>
+
+<div class="container">
+
+    <div style="background-color: rgba(52, 152, 219, 0.8); color: white; padding: 20px; border-radius: 10px; text-align: center; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+        <h2 style="font-size: 2.5rem; font-weight: bold; margin-bottom: 10px;">Welcome</h2>
+        <h2 style="font-size: 2rem; font-weight: 500;">@Model.FirstName @Model.LastName</h2>
+    </div>
+
+</div>
+
+
+
+    <br />
+    <br />
+
+    <div class="panel panel-primary">
+        <div class="panel-heading">User Dashboard</div>
+        <hr />
+        <div class="panel-body">
+            <div class="btn-group">
+                @if (Model != null && Model.UserId != 0)
+                {
+                    <a id="createEditUserModel" href="@Url.Action("Details", "User", new { id = Model.UserId })" class="btn btn-primary">
+                        User Profile
+                    </a>
+                }
+                else
+                {
+                    <p class="text-danger">User details are not available.</p>
+                }
+            </div>
+            <br /><br />
+            <hr />
+            <br />
+            <div class="btn-group">
+                <a id="viewMovieModel" href="@Url.Action("MovieDetails", "User", new { userId = Model.UserId })" class="btn btn-primary">
+                    Movies List
+                </a>
+                
+                
+                <a id="viewBookingModel" href="@Url.Action("BookingDetails", "User", new { userId = Model.UserId})" class="btn btn-primary">
+                    View Booking Details
+                </a>
+
+                <a id="viewBookingModel" href="@Url.Action("GetAllPaymentDetailsForUser", "PaymentDetails", new { userId = Model.UserId})" class="btn btn-primary">
+                    View Payment Details
+                </a>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
