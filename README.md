@@ -8,7 +8,7 @@ Step By Step Appoarch to run the Application on your system
 
 Step 1
 ----------------
-Download the Project from the drive link.
+Download the Project to your pc.
 
 Step 2
 ----------------
@@ -18,7 +18,7 @@ Step 3
 ----------------
 This Project is made using Database First Approach. 
 So, create a database and add the tables in SQL from the database script that is provided 
-in the drive link.
+here.
 
 Step 4
 ----------------
